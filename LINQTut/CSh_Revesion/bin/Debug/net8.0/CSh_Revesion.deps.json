@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSh_Revesion/1.0.0": {
+        "runtime": {
+          "CSh_Revesion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSh_Revesion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

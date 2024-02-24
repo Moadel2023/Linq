@@ -1,0 +1,14 @@
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.exe
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.deps.json
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.dll
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.pdb
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfo.cs
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.dll
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgramming.dll
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll
