@@ -1,0 +1,27 @@
+- What is the difference between statement and expression in C# ?
+- What is the difference between pure and impure function in C# ?
+-----------------------------------------------------------------------------------------------------
+- What is the difference between statement and expression in C# ?
+
+# Statements:
+
+* Functionality: Statements execute instructions and control the flow of execution within your C# program. They do not directly produce a value but may have side effects, such as:
+- Modifying variables
+- Performing I/O operations (e.g., printing to the console)
+- Transferring control flow using conditional statements and loops
+
+* Examples:
+int x = 5; // Variable declaration and assignment
+if (x > 10) { ... } // Conditional statement
+while (true) { ... } // Looping statement
+----------------------------
+# Expressions:
+
+Functionality: Expressions evaluate to a specific value, which can be used for various purposes within your program. They do not cause side effects and focus solely on computation or retrieval.
+
+* Examples:
+2 + 3 // Evaluates to 5 (integer arithmetic)
+"Hello" + " World" // Combines strings
+Math.Sqrt(16) // Calls a function and returns a value
+x * 2 // Uses a variable in an expression
+
