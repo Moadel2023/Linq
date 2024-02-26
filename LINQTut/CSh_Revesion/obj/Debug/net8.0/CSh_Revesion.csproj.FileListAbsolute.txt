@@ -12,3 +12,4 @@ D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\CSh_Revesion\obj\Debug\net8
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\CSh_Revesion\obj\Debug\net8.0\CSh_Revesion.pdb
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\CSh_Revesion\obj\Debug\net8.0\CSh_Revesion.genruntimeconfig.cache
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\CSh_Revesion\obj\Debug\net8.0\ref\CSh_Revesion.dll
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\CSh_Revesion\obj\Debug\net8.0\CSh_Revesion.sourcelink.json

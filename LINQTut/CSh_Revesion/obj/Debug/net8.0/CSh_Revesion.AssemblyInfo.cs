@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSh_Revesion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3202662468f8e719894e11ba509f22a6e81d8b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSh_Revesion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSh_Revesion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

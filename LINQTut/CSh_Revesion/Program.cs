@@ -11,6 +11,6 @@ internal class Program
         //CAExtentionMethodApp.Run(args);
         //CANullOperatorApp.Run(args);
         //CAIndexerApp.Run(args);
-        CADelegateApp(args);
+        CADelegateApp.Run(args);
     }
 }

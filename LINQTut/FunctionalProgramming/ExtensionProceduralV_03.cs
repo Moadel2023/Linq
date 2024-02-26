@@ -21,6 +21,9 @@
         
         foreach (var item in source)
         {
+            if (typeof(T).IsValueType)
+                Console.Write($" {item} ");
+            else
             Console.WriteLine(item);
         }
     }

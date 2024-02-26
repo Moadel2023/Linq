@@ -6,10 +6,10 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        var list = Repository.LoadEmployees();
-        list.Print("List of Employess");
+        //var list = Repository.LoadEmployees();
+        //list.Print("List of Employess");
 
-        //RunExtensionProcedural_03();
+        RunExtensionProcedural_04();
 
         Console.ReadKey();
     }
@@ -31,5 +31,12 @@ internal class Program
         var q1 = list.Filter(e => e.FirstName.ToLowerInvariant().StartsWith("ma") );
         q1.Print("Employees with first name starts with 'ma'");
     }
-}
 
+    private static void RunExtensionProcedural_04()
+    {
+        var list = Repository.LoadEmployees();
+        var q1 = list.Where(e => e.Gender.ToLowerInvariant().StartsWith("f"));
+        q1.Print("Female Employees ");
+    }
+}
+ 

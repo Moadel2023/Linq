@@ -12,3 +12,4 @@ D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\D
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
 D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll
+D:\C#_NET\Projects\Powershell\Github\C#\Linq\LINQTut\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.sourcelink.json
